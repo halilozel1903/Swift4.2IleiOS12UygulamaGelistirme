@@ -1,3 +1,3 @@
-# Swift4.2 ile iOS 12 Uygulama Geliştirme
+# iOS 12 App Development with Swift4.2
 
-Swift 4.2 ile geliştirilen bir iOS 12 uygulama geliştirme projesidir.
+It is an iOS 12 application development project developed with Swift 4.2.
